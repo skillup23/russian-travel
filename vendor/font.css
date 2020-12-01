@@ -1,0 +1,55 @@
+@font-face {
+  font-family: 'Inter';
+  font-style:  normal;
+  font-weight: normal;
+  src: url('../vendor/Inter-3.15/Inter-Web/Inter-Regular.woff2') format('woff2'),
+       url('../vendor/Inter-3.15/Inter-Web/Inter-Regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Inter';
+  font-style:  italic;
+  font-weight: normal;
+  src: url('../vendor/Inter-3.15/Inter-Web/Inter-Italic.woff2') format('woff2'),
+       url('../vendor/Inter-3.15/Inter-Web/Inter-Italic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Inter';
+  font-style:  normal;
+  font-weight: bold;
+  src: url('../vendor/Inter-3.15/Inter-Web/Inter-Bold.woff2') format('woff2'),
+       url('../vendor/Inter-3.15/Inter-Web/Inter-Bold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Inter';
+  font-style:  normal;
+  font-weight: 900;
+  src: url('../vendor/Inter-3.15/Inter-Web/Inter-Black.woff2') format('woff2'),
+       url('../vendor/Inter-3.15/Inter-Web/Inter-Black.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Inter';
+  font-style:  italic;
+  font-weight: bold;
+  src: url('../vendor/Inter-3.15/Inter-Web/Inter-BoldItalic.woff2') format('woff2'),
+       url('../vendor/Inter-3.15/Inter-Web/Inter-BoldItalic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Inter';
+  font-style:  normal;
+  font-weight: 200;
+  src: url('../vendor/Inter-3.15/Inter-Web/Inter-ExtraLight.woff2') format('woff2'),
+       url('../vendor/Inter-3.15/Inter-Web/Inter-ExtraLight.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Inter';
+  font-style:  normal;
+  font-weight: 100;
+  src: url('../vendor/Inter-3.15/Inter-Web/Inter-Thin.woff2') format('woff2'),
+       url('../vendor/Inter-3.15/Inter-Web/Inter-Thin.woff') format('woff');
+}

@@ -1,0 +1,15 @@
+.place__website_link {
+  margin-block-start: 0;
+  margin-block-end: 0;
+  margin-top: 12px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+  text-decoration: underline;
+  color: white;
+}
+
+.place__website_link:hover {
+  opacity: 0.8;
+}
