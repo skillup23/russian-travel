@@ -3,7 +3,7 @@
   display: none;
 }
 
-@media screen and (min-width : 768px) {
+@media screen and (min-width: 768px) {
   .place__website {
     max-width: 352px;
     display: block;
@@ -11,13 +11,13 @@
   }
 }
 
-@media screen and (min-width : 1024px) {
+@media screen and (min-width: 1024px) {
   .place__website {
     max-width: 456px;
   }
 }
 
-@media screen and (min-width : 1280px) {
+@media screen and (min-width: 1280px) {
   .place__website {
     max-width: 484px;
   }

@@ -10,7 +10,7 @@
   line-height: 26px;
 }
 
-@media screen and (min-width : 768px) {
+@media screen and (min-width: 768px) {
   .place__paragraph {
     min-width: 352px;
     margin-bottom: 26px;
@@ -21,7 +21,7 @@
   }
 }
 
-@media screen and (min-width : 1024px) {
+@media screen and (min-width: 1024px) {
   .place__paragraph {
     min-width: 456px;
     margin-bottom: 26px;
@@ -30,7 +30,7 @@
   }
 }
 
-@media screen and (min-width : 1280px) {
+@media screen and (min-width: 1280px) {
   .place__paragraph {
     min-width: 484px;
   }
