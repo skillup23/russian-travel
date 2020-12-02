@@ -1,6 +1,8 @@
 .cover__link {
   display: block;
   box-sizing: border-box;
+  color: white;
+  text-decoration: none;
 }
 
 .cover__link::before {
@@ -16,4 +18,5 @@
 
 .cover__link:hover::before {
   opacity: 0.8;
+  transition: opacity 1s;
 }

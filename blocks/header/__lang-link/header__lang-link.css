@@ -8,19 +8,18 @@
   margin-right: 18px;
 }
 
-.header__lang-link:last-child {
-  margin-right: 0;
-}
-
-.header__lang-link:hover {
-  box-shadow:
-    inset 0 -2px white,
-    inset 0 -0.2em #2A2C2F;
-}
-
 @media all and (max-width: 320px) {
   .header__lang-link{
     font-size: 18px;
     line-height: 20px;
   }
+}
+
+.header__lang-link:last-child {
+  margin-right: 0;
+}
+
+.header__lang-link:hover {
+  opacity: 0.8;
+  transition: opacity 1s;
 }
